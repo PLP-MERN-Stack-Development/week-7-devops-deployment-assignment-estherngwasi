@@ -66,7 +66,10 @@ cd ../client && npm install
 ---
 
 ## 📸 Screenshots
-- Add screenshots of your deployed app and CI/CD pipeline here
+![Screenshot](assets/week7a.PNG)
+
+![Screenshot](assets/week7b.PNG)
+
 
 ---
 
